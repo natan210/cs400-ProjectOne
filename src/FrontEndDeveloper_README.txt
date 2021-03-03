@@ -6,7 +6,7 @@ Name of FrontEndDeveloper: Aidan Dyer
 Group: BD
 Team: blue
 
-Files Written by Me:
+Files Written by me:
 --------------------
 <List all files that were within this project that were written by you, and
  include a short description of the purpose that each file servers>
